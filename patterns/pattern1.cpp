@@ -9,7 +9,7 @@
 
    no of rows = 3
    coloumn-row relation = each row has same no. of rows as entry of n
-                          for number patter - print the number of row every time
+                          for number patter - print the number of row every time 
 */   
 
 //This code is made by ZALA
