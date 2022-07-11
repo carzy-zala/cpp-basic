@@ -1,9 +1,11 @@
 //This code is made by ZALA
+
+// always add parnthesis
  
 #include <bits/stdc++.h>
 
+using namespace std; 
 
-using namespace std;
 
 
 int main()
