@@ -1,0 +1,2 @@
+
+    printArray(b,6);
